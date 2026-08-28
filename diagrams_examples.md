@@ -86,21 +86,21 @@ Export the selected diagram area as SVG.
 
 ```text
 diagrams_examples.md
-diagrams/diagram.drawio
-diagrams/diagram.svg
+diagram.drawio
+diagram.svg
 ```
 
 ### Markdown source
 
 ```markdown
-![Alt text](diagrams/diagram.svg)
+![Alt text](<path to diagram>/diagram.svg)
 ```
 
 ### Rendered diagram
 
 Rendered diagram:
 
-![Alt text](diagrams/diagram.svg)
+![Alt text](./diagram.svg)
 
 ## Bad, Better and Good Hardware Diagrams
 
@@ -242,7 +242,7 @@ Mermaid still selects the exact block positions. The logical structure and conne
 
 This shows a good example, of course you could argue this can be further improved :)
 
-![Alt text](diagrams//diagram-good_example.svg)
+![Alt text](./diagram-good_example.svg)
 
 ### General Guidelines
 
