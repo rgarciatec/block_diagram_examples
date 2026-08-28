@@ -10,4 +10,5 @@ Check [diagrams_examples.md](./diagrams_examples.md)
 
 ## References
 [2] https://github.com/mermaid-js/mermaid/blob/develop/packages/mermaid/src/docs/syntax/block.md
+
 [1] https://opencehardware.github.io/RTL-Hardware-Documentation-Template/block/diagram/
