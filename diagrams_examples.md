@@ -1,4 +1,5 @@
 # Hardware Block Diagram Examples
+The following example describes a top block called A, which is composed of 3 sub blocks B, C and D
 
 Block **A** has two 2-bit inputs, `x[1:0]` and `y[1:0]`, and one 2-bit output, `z[1:0]`.
 
