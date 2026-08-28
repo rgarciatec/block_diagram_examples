@@ -259,4 +259,4 @@ Good hardware diagrams should:
 - avoid long wires when possible;
 - use consistent naming and formatting.
 
-A reader should be able to identify the main datapath within a few seconds of looking at the diagram, when possible there are complex systems which is almost unavoidable to break this guidelines
+A reader should be able to identify the main datapath within a few seconds of looking at the diagram, when possible there are complex systems in which is almost unavoidable to break these guidelines
